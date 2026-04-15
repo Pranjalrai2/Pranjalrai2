@@ -1,3 +1,11 @@
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Pranjal Rai</h1>
 
 <p align="center">
